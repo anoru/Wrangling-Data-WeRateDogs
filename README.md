@@ -1,7 +1,7 @@
 # Wrangling Data WeRateDogs 
 *Data Analyst nanodegree - Udacity*
 
-(Check the wrangling [here]() and the visualization [here]())
+(Check the wrangling [here](http://htmlpreview.github.io/?https://github.com/anoru/Wrangling-Data-WeRateDogs/blob/master/wrangle_act.html) and the visualization [here](http://htmlpreview.github.io/?https://github.com/anoru/Wrangling-Data-WeRateDogs/blob/master/act_report.html))
 
 
 
