@@ -72,4 +72,4 @@ We used the two types of cleaning, the manual and programmatic even the manual n
 
 Data wrangling indeed is a core skill that everyone who works with data should be familiar with since so much of the world's data isn't clean. If we analyze, visualize, or model our data before we wrangle it, our consequences could be making mistakes, missing out on cool insights, and wasting time. We couldn't be able to make some of the visualization without wrangling (i.e dog gender partition) **So best practices say wrangle. Always.**
 
-(Check the wrangling [here]() and the visualization [here]())
+(Check the wrangling [here](http://htmlpreview.github.io/?https://github.com/anoru/Wrangling-Data-WeRateDogs/blob/master/wrangle_act.html) and the visualization [here](http://htmlpreview.github.io/?https://github.com/anoru/Wrangling-Data-WeRateDogs/blob/master/act_report.html))
